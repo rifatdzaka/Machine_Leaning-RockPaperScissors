@@ -1,5 +1,7 @@
 # Machine Learning-RockPaperScissors
-This project, I explore how we can use CNN and build an image classifier. 
+
+## About
+In this project, I explore how we can use CNN and build an image classifier. 
 
 
 ## Data Source
